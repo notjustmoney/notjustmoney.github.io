@@ -108,7 +108,7 @@ analytics:
 # Site Author
 author:
   name             : "Cha JaeYun"
-  avatar           : "blob/master/assets/images/notjustmoney.jpg"
+  avatar           :  https://raw.githubusercontent.com/notjustmoney/notjustmoney.github.io/master/assets/images/notjustmoney.jpg
   bio              : "Student"
   location         : "KR"
   email            : "chajy97@gmail.com"
