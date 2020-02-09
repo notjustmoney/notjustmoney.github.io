@@ -4,9 +4,9 @@ main:
     url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
-   - title: "WEB"
-     url: /web/
-   - title: "SECURITY"
-     url: /security/
-   - title: "PROGRAMMING"
-     url: /programming/
+  - title: "WEB"
+    url: /web/
+  - title: "SECURITY"
+    url: /security/
+  - title: "PROGRAMMING"
+    url: /programming/
