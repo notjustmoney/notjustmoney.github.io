@@ -20,7 +20,7 @@ title                    : "Not Just Money"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Cha JaeYun"
-description              : "study computer science"
+description              : "playing with computer"
 url                      : "https://notjustmoney.github.io"
 baseurl                  : ""
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
