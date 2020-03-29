@@ -2,6 +2,8 @@
 title: "WEB"
 excerpt: "WEB category"
 permalink: /WEB/
+
+layout: single
 author_profile: true 
 ---
 
