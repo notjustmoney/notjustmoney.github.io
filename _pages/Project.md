@@ -2,7 +2,7 @@
 title: "프로젝트"
 permalink: /project/
 
-layout: single
+layout: categories
 author_profile: true
 sidebar: 
    nav: "docs"
