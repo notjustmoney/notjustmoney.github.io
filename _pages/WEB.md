@@ -3,7 +3,7 @@ title: "WEB"
 excerpt: "WEB category"
 permalink: /WEB/
 
-layout: single
+layout: categories 
 author_profile: true 
 ---
 
