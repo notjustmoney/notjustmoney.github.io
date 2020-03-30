@@ -3,11 +3,11 @@ main:
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   - title: "Category"
-    url: /WEB/
+    url: /category/
   - title: "Tags"
-    url: /SEC/
+    url: /tags/
   - title: "Date"
-    url: /DEV/
+    url: /date/
 
 docs:
   - title: WEB 
