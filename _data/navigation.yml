@@ -8,6 +8,8 @@ main:
     url: /tags/
   - title: "Date"
     url: /date/
+  - title: "Project"
+    url: /project/
 
 docs:
   - title: WEB 
