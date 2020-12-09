@@ -2,9 +2,8 @@
 title: "프로젝트"
 permalink: /project/
 
-layout: categories
+layout: projects
 author_profile: true
-sidebar: 
-   nav: "docs"
+sidebar:
+  nav: "docs"
 ---
-
